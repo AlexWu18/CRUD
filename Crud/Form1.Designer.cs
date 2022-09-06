@@ -85,9 +85,9 @@
             this.label1.Location = new System.Drawing.Point(299, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(202, 31);
+            this.label1.Size = new System.Drawing.Size(185, 31);
             this.label1.TabIndex = 2;
-            this.label1.Text = "CRUD Persona";
+            this.label1.Text = "CRUD People";
             // 
             // dgvPeople
             // 
