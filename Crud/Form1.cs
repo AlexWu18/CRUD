@@ -22,7 +22,6 @@ namespace Crud
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            lblDate.Text = DateTime.Now.ToString("F");
             GetClientTypes();
             GetContactTypes();
             GetPermissions();

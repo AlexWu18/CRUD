@@ -21,5 +21,10 @@ namespace Crud
         {
 
         }
+
+        private void button1_Cl(object sender, EventArgs e)
+        {
+
+        }
     }
 }
