@@ -302,5 +302,9 @@ namespace Crud
             chkSupportStaff.Text = chkSupportStaff.Checked ? "SI" : "NO";
         }
 
+        private void dgvPeople_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
